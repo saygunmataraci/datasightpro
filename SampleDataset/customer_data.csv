@@ -1,0 +1,1001 @@
+age,gender,income,education,purchase_frequency,last_purchase_amount
+30,Female,52039,PhD,Weekly,33
+37,Male,42946,PhD,Bi-Weekly,41
+38,Female,71075,Master,Monthly,110
+40,Female,48095,Bachelor,Bi-Weekly,45
+55,Female,79142,High School,Weekly,99
+23,Male,36327,Bachelor,Yearly,28
+58,Female,101370,PhD,Monthly,163
+30,Female,66325,Master,Weekly,49
+53,Male,96167,PhD,Monthly,171
+28,Female,55695,Bachelor,Yearly,91
+67,Male,94805,High School,Monthly,148
+46,Female,58922,PhD,Monthly,75
+70,Female,102763,Master,Yearly,228
+25,Male,49372,Bachelor,Bi-Weekly,46
+27,Male,50338,PhD,Yearly,76
+51,Male,97044,Bachelor,Monthly,171
+33,Male,62913,High School,Weekly,55
+70,Male,107634,Master,Bi-Weekly,134
+26,Female,30000,Bachelor,Bi-Weekly,35
+27,Male,39577,Bachelor,Weekly,20
+24,Male,45443,Bachelor,Weekly,35
+54,Female,79634,Master,Bi-Weekly,99
+28,Female,60224,PhD,Yearly,112
+53,Female,67313,Bachelor,Monthly,99
+29,Male,48396,High School,Bi-Weekly,56
+33,Male,54895,PhD,Yearly,87
+23,Male,30000,PhD,Bi-Weekly,20
+54,Female,68771,PhD,Yearly,134
+27,Female,64023,High School,Yearly,132
+51,Male,78100,PhD,Monthly,122
+25,Female,30000,Bachelor,Bi-Weekly,20
+67,Male,102988,Bachelor,Weekly,119
+19,Female,30000,Bachelor,Weekly,20
+59,Female,93686,PhD,Bi-Weekly,132
+57,Female,107331,High School,Weekly,113
+46,Male,60372,Bachelor,Yearly,135
+47,Male,67755,Master,Monthly,109
+18,Female,30000,High School,Yearly,46
+55,Female,86083,Master,Yearly,177
+20,Male,30000,PhD,Bi-Weekly,20
+48,Female,88542,High School,Monthly,141
+38,Female,54461,PhD,Weekly,32
+43,Male,53811,Bachelor,Bi-Weekly,60
+42,Female,71114,Bachelor,Monthly,109
+23,Female,30000,Master,Weekly,24
+38,Male,69700,High School,Monthly,98
+33,Male,71288,High School,Bi-Weekly,98
+29,Male,53687,PhD,Bi-Weekly,71
+22,Male,43411,High School,Yearly,82
+42,Female,83083,Master,Weekly,88
+58,Female,91580,PhD,Monthly,157
+30,Female,66765,PhD,Yearly,121
+55,Female,76382,PhD,Monthly,107
+24,Female,45555,PhD,Monthly,58
+58,Female,99387,PhD,Bi-Weekly,148
+22,Male,42641,Bachelor,Bi-Weekly,38
+32,Female,35423,PhD,Bi-Weekly,23
+25,Male,30000,High School,Yearly,35
+59,Female,100203,High School,Monthly,159
+52,Male,96958,High School,Yearly,208
+39,Female,81174,High School,Weekly,84
+37,Male,70734,Master,Monthly,113
+70,Male,111100,PhD,Bi-Weekly,148
+56,Female,78374,Master,Yearly,178
+70,Male,125921,Bachelor,Monthly,225
+69,Male,117330,High School,Yearly,250
+26,Male,47766,Master,Bi-Weekly,48
+64,Female,99569,PhD,Weekly,126
+40,Male,53736,Master,Bi-Weekly,65
+44,Male,76783,High School,Monthly,133
+65,Male,87947,Bachelor,Bi-Weekly,100
+41,Male,81380,High School,Weekly,78
+51,Male,93342,PhD,Yearly,196
+65,Male,89703,Master,Monthly,128
+32,Female,54795,Master,Bi-Weekly,80
+64,Female,122745,Bachelor,Weekly,150
+46,Male,71666,Master,Bi-Weekly,99
+32,Male,47966,Bachelor,Weekly,56
+66,Female,121518,High School,Weekly,132
+50,Male,98242,Master,Bi-Weekly,134
+20,Female,44066,High School,Yearly,62
+63,Male,109485,High School,Bi-Weekly,137
+66,Male,115640,Master,Yearly,250
+65,Female,89953,Master,Weekly,103
+39,Male,44800,PhD,Yearly,64
+70,Female,127289,High School,Weekly,133
+55,Male,84130,High School,Monthly,137
+62,Female,102246,Bachelor,Monthly,186
+28,Male,48116,Bachelor,Monthly,55
+28,Female,44553,High School,Weekly,26
+18,Female,34033,Master,Bi-Weekly,30
+27,Male,42635,Bachelor,Weekly,20
+69,Male,92842,High School,Weekly,87
+61,Male,98694,High School,Monthly,166
+66,Male,114474,High School,Yearly,250
+34,Female,41779,High School,Bi-Weekly,44
+52,Male,78645,Bachelor,Bi-Weekly,86
+41,Female,55591,Bachelor,Bi-Weekly,75
+27,Female,30000,PhD,Weekly,34
+40,Male,78029,High School,Monthly,109
+50,Female,81924,High School,Weekly,101
+63,Female,90934,High School,Monthly,150
+29,Female,65578,PhD,Yearly,132
+29,Male,43235,Master,Bi-Weekly,56
+63,Female,115851,High School,Monthly,196
+70,Female,106731,Master,Weekly,115
+25,Male,30000,PhD,Monthly,25
+38,Female,78179,Master,Weekly,65
+53,Female,82907,Bachelor,Monthly,141
+70,Female,111514,High School,Yearly,250
+69,Female,103042,High School,Weekly,99
+37,Male,52300,Bachelor,Yearly,93
+52,Male,84956,Bachelor,Monthly,129
+28,Female,30718,PhD,Monthly,22
+26,Male,55349,PhD,Yearly,89
+40,Female,74257,Bachelor,Bi-Weekly,101
+59,Male,91932,High School,Weekly,117
+63,Male,92598,Bachelor,Yearly,190
+47,Female,66334,Bachelor,Monthly,87
+65,Male,93282,Bachelor,Bi-Weekly,109
+38,Female,68298,Master,Weekly,80
+29,Male,56433,PhD,Yearly,114
+65,Female,102971,Bachelor,Yearly,230
+34,Male,55680,Bachelor,Monthly,96
+23,Female,30000,Bachelor,Weekly,20
+60,Female,87840,Master,Bi-Weekly,109
+66,Male,108957,PhD,Monthly,171
+58,Male,101537,High School,Monthly,158
+54,Female,85005,Master,Yearly,184
+39,Male,56219,Master,Monthly,90
+51,Female,69104,High School,Bi-Weekly,69
+45,Male,86330,Bachelor,Yearly,198
+19,Female,44002,Master,Weekly,50
+62,Female,99366,PhD,Weekly,121
+24,Male,36973,Bachelor,Yearly,45
+53,Male,104120,Master,Yearly,238
+46,Female,62469,Master,Monthly,97
+22,Male,53942,,Bi-Weekly,49
+24,Male,54081,,Weekly,50
+70,Male,122892,Master,Bi-Weekly,184
+33,Female,57387,High School,Monthly,78
+48,Male,61331,Master,Bi-Weekly,73
+35,Female,72892,High School,Weekly,78
+23,Female,30000,Master,Bi-Weekly,20
+36,Female,39887,PhD,Yearly,69
+37,Male,75053,Master,Weekly,90
+34,Female,45908,High School,Bi-Weekly,38
+64,Male,94472,High School,Bi-Weekly,136
+68,Female,120263,High School,Yearly,250
+30,Female,48469,,Weekly,29
+21,Male,30000,PhD,Yearly,50
+65,Female,122720,High School,Yearly,250
+60,Female,110496,High School,Bi-Weekly,139
+23,Female,42106,Bachelor,Weekly,29
+45,Female,77947,Bachelor,Monthly,106
+63,Male,90573,High School,Yearly,191
+59,Male,114220,PhD,Weekly,110
+62,Male,88828,PhD,Weekly,77
+44,Female,78903,Master,Bi-Weekly,106
+68,Female,120159,Master,Yearly,250
+18,Female,30000,Master,Bi-Weekly,38
+46,Male,74340,PhD,Bi-Weekly,103
+44,Female,91166,Bachelor,Yearly,187
+59,Male,76859,Master,Monthly,101
+58,Male,97846,High School,Yearly,234
+43,Male,87291,Master,Bi-Weekly,112
+68,Female,105153,Master,Monthly,192
+51,Male,82400,PhD,Weekly,90
+70,Female,131760,High School,Bi-Weekly,173
+54,Male,93960,Bachelor,Monthly,136
+44,Male,73813,PhD,Monthly,99
+32,Male,42588,PhD,Bi-Weekly,34
+44,Male,73456,Master,Weekly,77
+35,Male,48179,High School,Yearly,92
+19,Male,30000,High School,Yearly,20
+68,Male,127761,Bachelor,Bi-Weekly,183
+38,Male,63693,High School,Weekly,56
+68,Male,94683,Master,Monthly,173
+33,Female,37912,High School,Weekly,20
+45,Male,75934,High School,Bi-Weekly,107
+62,Male,96840,PhD,Weekly,83
+34,Female,56805,PhD,Weekly,44
+57,Female,93436,Bachelor,Bi-Weekly,107
+54,Male,93631,PhD,Bi-Weekly,119
+64,Female,92150,Bachelor,Monthly,143
+45,Female,73422,Master,Bi-Weekly,83
+33,Female,73999,PhD,Yearly,162
+59,Female,112129,Bachelor,Monthly,208
+60,Female,100830,High School,Monthly,190
+29,Male,56217,Bachelor,Yearly,93
+51,Male,66940,Master,Monthly,114
+66,Female,110842,Master,Yearly,249
+45,Male,68430,Bachelor,Weekly,74
+33,Male,69975,High School,Monthly,106
+46,Male,70878,Master,Monthly,125
+65,Female,104215,Master,Monthly,186
+22,Male,35822,Master,Yearly,26
+40,Male,65504,High School,Monthly,90
+70,Female,121753,Bachelor,Monthly,235
+64,Male,115975,Bachelor,Yearly,250
+41,Female,82084,High School,Bi-Weekly,90
+25,Female,42888,Master,Monthly,65
+47,Male,65164,Master,Weekly,43
+58,Male,108062,PhD,Monthly,197
+54,Male,95845,Master,Bi-Weekly,132
+18,Female,48421,High School,Monthly,55
+60,Female,96958,PhD,Bi-Weekly,151
+68,Male,129894,Bachelor,Bi-Weekly,205
+19,Female,30000,Master,Weekly,21
+57,Female,96983,Master,Weekly,117
+42,Male,52300,Bachelor,Monthly,79
+32,Male,70349,Master,Monthly,87
+25,Female,54012,Bachelor,Weekly,29
+62,Male,98685,Master,Monthly,156
+54,Female,91531,High School,Weekly,92
+57,Male,107833,High School,Monthly,196
+25,Female,55903,PhD,Yearly,85
+21,Male,31272,High School,Weekly,20
+38,Male,53404,Bachelor,Yearly,83
+55,Female,109554,High School,Weekly,130
+39,Female,46834,Bachelor,Yearly,81
+50,Male,93794,Master,Yearly,202
+52,Male,73846,Master,Yearly,154
+60,Male,110828,Master,Monthly,209
+24,Male,30000,Bachelor,Monthly,20
+41,Female,49520,Master,Yearly,90
+25,Female,49301,PhD,Weekly,53
+59,Female,104280,PhD,Yearly,250
+18,Female,35889,Master,Monthly,20
+65,Female,93041,Master,Weekly,81
+30,Male,34845,Bachelor,Weekly,21
+39,Female,49797,Bachelor,Bi-Weekly,42
+39,Female,78386,Master,Yearly,165
+32,Male,57083,Bachelor,Yearly,116
+26,Female,34039,Master,Weekly,36
+51,Female,97961,Master,Weekly,98
+41,Male,67307,PhD,Weekly,74
+61,Male,85845,High School,Weekly,106
+41,Male,63250,PhD,Bi-Weekly,82
+34,Female,66733,High School,Monthly,105
+65,Female,113101,Bachelor,Yearly,250
+66,Female,114221,PhD,Yearly,250
+50,Female,75601,Bachelor,Monthly,132
+30,Female,38202,High School,Yearly,73
+49,Male,75987,PhD,Bi-Weekly,81
+46,Male,58044,High School,Yearly,127
+25,Male,57493,Master,Bi-Weekly,54
+57,Male,74640,High School,Yearly,138
+25,Male,30000,High School,Yearly,20
+32,Male,41914,Bachelor,Weekly,48
+44,Female,53475,Master,Weekly,61
+22,Female,30502,PhD,Yearly,49
+27,Male,30000,Bachelor,Bi-Weekly,20
+24,Female,30000,PhD,Bi-Weekly,31
+35,Female,54298,Master,Yearly,95
+26,Female,60018,High School,Bi-Weekly,74
+52,Female,78402,High School,Bi-Weekly,81
+59,Male,107366,PhD,Yearly,243
+49,Female,88304,Bachelor,Monthly,159
+51,Female,68233,PhD,Weekly,72
+52,Male,65300,Bachelor,Weekly,63
+36,Female,46111,Master,Bi-Weekly,36
+49,Female,73420,Master,Monthly,122
+32,Female,65103,High School,Monthly,88
+52,Female,84986,Master,Monthly,123
+27,Male,49428,Bachelor,Monthly,67
+70,Male,109027,Bachelor,Bi-Weekly,138
+32,Female,47696,PhD,Bi-Weekly,61
+48,Female,65760,PhD,Bi-Weekly,93
+44,Male,59988,Master,Yearly,131
+36,Male,74226,Bachelor,Yearly,170
+55,Female,91291,High School,Weekly,92
+56,Male,83660,PhD,Bi-Weekly,113
+62,Male,81346,Master,Yearly,183
+64,Female,115504,Master,Yearly,250
+23,Female,30000,Master,Weekly,20
+21,Male,30000,PhD,Monthly,21
+20,Female,37290,PhD,Weekly,37
+68,Female,121026,High School,Bi-Weekly,161
+39,Male,71984,High School,Bi-Weekly,86
+70,Female,129879,Master,Monthly,228
+58,Male,97048,Bachelor,Yearly,221
+70,Female,96534,PhD,Yearly,222
+39,Male,82248,PhD,Bi-Weekly,96
+40,Female,59642,High School,Bi-Weekly,65
+51,Male,101020,PhD,Bi-Weekly,158
+50,Male,101362,PhD,Bi-Weekly,147
+39,Male,51783,Master,Weekly,49
+60,Female,112958,Master,Bi-Weekly,142
+37,Male,59537,Master,Bi-Weekly,56
+18,Male,43381,High School,Weekly,20
+21,Female,50481,Master,Weekly,47
+51,Male,77463,Bachelor,Weekly,90
+37,Male,71765,PhD,Monthly,129
+34,Male,74977,Master,Weekly,63
+52,Female,98636,Bachelor,Yearly,212
+68,Male,107333,PhD,Monthly,177
+60,Female,102626,Master,Bi-Weekly,136
+30,Male,57324,Bachelor,Bi-Weekly,83
+32,Female,62457,Master,Weekly,55
+34,Female,51594,Bachelor,Bi-Weekly,66
+32,Male,51419,High School,Yearly,105
+37,Female,56470,Master,Bi-Weekly,49
+62,Male,96735,High School,Monthly,150
+43,Male,58721,PhD,Yearly,110
+20,Female,30000,Bachelor,Weekly,20
+30,Male,54283,PhD,Yearly,84
+38,Female,,PhD,Yearly,87
+21,Male,39757,Bachelor,Yearly,39
+50,Female,76599,Master,Monthly,117
+64,Female,91804,Master,Monthly,146
+51,Male,84299,High School,Weekly,66
+23,Male,30000,Bachelor,Bi-Weekly,23
+45,Female,78420,PhD,Bi-Weekly,116
+22,Female,30000,PhD,Yearly,23
+22,Female,30000,High School,Bi-Weekly,22
+40,Female,57356,High School,Weekly,46
+32,Female,43062,Master,Weekly,33
+37,Female,68592,Master,Yearly,122
+48,Female,94952,Bachelor,Weekly,91
+47,Male,71474,Bachelor,Monthly,107
+21,Female,30000,Master,Monthly,30
+50,Female,66397,Bachelor,Bi-Weekly,74
+21,Female,30000,Bachelor,Yearly,20
+26,Male,53543,PhD,Monthly,64
+23,Male,54371,Master,Yearly,101
+27,Female,30000,PhD,Bi-Weekly,27
+54,Male,105159,PhD,Monthly,168
+23,Male,32033,High School,Monthly,35
+42,Female,82953,Bachelor,Yearly,166
+45,Female,81714,High School,Yearly,179
+45,Male,82937,Master,Weekly,71
+29,Female,45464,Bachelor,Bi-Weekly,44
+36,Female,45324,Master,Weekly,24
+59,Female,82000,Bachelor,Bi-Weekly,106
+20,Female,40748,Bachelor,Monthly,57
+41,Female,81477,Bachelor,Weekly,94
+50,Female,85145,PhD,Bi-Weekly,120
+61,Female,119194,PhD,Bi-Weekly,152
+30,Female,48617,PhD,Bi-Weekly,52
+28,Male,31973,Master,Weekly,20
+48,Male,88331,Master,Monthly,137
+33,Female,72252,Master,Bi-Weekly,82
+58,Female,74867,High School,Weekly,63
+63,Female,96879,High School,Monthly,144
+53,Female,96064,High School,Weekly,104
+49,Male,81396,PhD,Bi-Weekly,113
+69,Female,120022,High School,Bi-Weekly,177
+44,Male,71220,PhD,Bi-Weekly,106
+66,Male,102761,PhD,Monthly,170
+52,Male,81522,Master,Bi-Weekly,98
+29,Male,62241,Bachelor,Bi-Weekly,71
+46,Female,81858,Master,Weekly,70
+59,Male,101563,PhD,Yearly,217
+35,Male,69269,High School,Monthly,98
+29,Male,67671,Master,Bi-Weekly,64
+39,Female,49766,Master,Yearly,84
+57,Male,90097,Master,Yearly,187
+65,Male,104356,Bachelor,Yearly,241
+31,Male,67386,High School,Yearly,153
+18,Female,30000,Bachelor,Weekly,20
+39,Male,56643,Bachelor,Monthly,98
+47,Male,57207,PhD,Monthly,71
+66,Male,105119,High School,Bi-Weekly,143
+66,Female,127332,Master,Weekly,141
+25,Male,50676,PhD,Yearly,74
+57,Female,78134,Master,Weekly,93
+43,Female,64803,High School,Monthly,97
+28,Male,50585,PhD,Yearly,84
+35,Female,64520,High School,Bi-Weekly,76
+60,Female,79929,Master,Monthly,145
+21,Female,39163,PhD,Yearly,68
+55,Male,71187,Master,Bi-Weekly,98
+26,Male,56495,Bachelor,Weekly,31
+70,Female,133781,Master,Yearly,250
+52,Female,90879,High School,Weekly,109
+38,Male,48764,Master,Bi-Weekly,50
+46,Male,71920,PhD,Bi-Weekly,87
+59,Female,81332,High School,Weekly,81
+64,Female,111948,Bachelor,Bi-Weekly,151
+68,Female,128696,PhD,Monthly,225
+23,Female,30000,Master,Yearly,47
+20,Male,30000,Master,Yearly,20
+55,Male,81442,Bachelor,Yearly,168
+18,Male,30000,High School,Monthly,20
+62,Female,83332,High School,Yearly,180
+52,Male,86470,High School,Bi-Weekly,100
+61,Male,88490,High School,Weekly,106
+63,Male,99018,Master,Yearly,244
+25,Female,31515,Bachelor,Monthly,20
+63,Female,118308,Master,Weekly,131
+45,Male,92295,Master,Weekly,83
+52,Male,70591,High School,Monthly,104
+66,Male,125083,Bachelor,Weekly,131
+63,Female,101782,Bachelor,Monthly,187
+56,Female,94456,High School,Weekly,89
+70,Female,123694,High School,Monthly,223
+26,Female,30000,PhD,Weekly,20
+25,Female,59737,High School,Weekly,53
+43,Female,87484,High School,Weekly,76
+69,Male,107111,High School,Bi-Weekly,166
+58,Male,93681,High School,Yearly,232
+68,Male,112904,Bachelor,Weekly,141
+65,Male,121539,High School,Weekly,130
+37,Female,54602,Bachelor,Bi-Weekly,54
+57,Female,103998,Bachelor,Bi-Weekly,129
+31,Male,56548,PhD,Bi-Weekly,67
+66,Male,92048,PhD,Weekly,96
+40,Female,65066,High School,Monthly,91
+61,Male,93641,High School,Monthly,159
+57,Male,86368,Master,Weekly,104
+36,Female,42279,PhD,Bi-Weekly,54
+50,Male,85358,PhD,Yearly,197
+54,Male,72984,Bachelor,Weekly,65
+62,Male,97509,PhD,Weekly,87
+24,Female,48018,Bachelor,Bi-Weekly,46
+44,Female,82325,High School,Bi-Weekly,102
+65,Male,109869,PhD,Bi-Weekly,174
+41,Male,58957,Bachelor,Bi-Weekly,69
+23,Male,30000,High School,Monthly,31
+32,Female,36834,Bachelor,Yearly,59
+58,Female,93895,High School,Monthly,155
+24,Male,43851,Bachelor,Yearly,72
+37,Male,61275,High School,Monthly,102
+31,Male,46800,High School,Bi-Weekly,27
+65,Female,103836,Bachelor,Monthly,190
+18,Female,30000,High School,Yearly,23
+23,Female,33408,PhD,Yearly,50
+19,Female,38990,PhD,Monthly,22
+21,Male,51108,PhD,Monthly,62
+63,Female,113056,High School,Bi-Weekly,161
+58,Female,77520,High School,Weekly,84
+33,Male,46970,PhD,Weekly,52
+21,Male,36856,Master,Weekly,20
+62,Male,93333,PhD,Weekly,78
+37,Male,51367,High School,Yearly,82
+44,Female,79646,Bachelor,Bi-Weekly,84
+50,Male,92342,Bachelor,Monthly,141
+28,Female,43106,High School,Yearly,67
+26,Female,52000,High School,Bi-Weekly,51
+58,Male,88113,Master,Yearly,189
+59,Female,82176,High School,Bi-Weekly,107
+19,Male,30048,PhD,Yearly,36
+32,Male,47472,Master,Yearly,99
+33,Female,54637,Master,Monthly,82
+28,Male,30000,Bachelor,Bi-Weekly,20
+45,Male,56207,PhD,Monthly,85
+66,Male,115738,High School,Bi-Weekly,163
+36,Female,69412,High School,Weekly,48
+21,Female,40196,Master,Weekly,20
+24,Male,30000,Bachelor,Yearly,50
+21,Male,30000,High School,Yearly,35
+21,Female,39984,Master,Weekly,42
+28,Female,56641,Master,Monthly,75
+46,Male,85363,Bachelor,Bi-Weekly,112
+40,Female,46837,PhD,Bi-Weekly,28
+60,Male,84194,Master,Weekly,71
+62,Female,103231,PhD,Bi-Weekly,124
+48,Male,77606,PhD,Yearly,158
+22,Male,53249,High School,Weekly,57
+38,Male,48230,High School,Bi-Weekly,47
+53,Female,94213,Master,Weekly,111
+22,Female,36694,Master,Monthly,29
+35,Male,58192,Bachelor,Monthly,62
+25,Female,30000,PhD,Bi-Weekly,20
+52,Female,74200,High School,Weekly,73
+45,Female,87224,Master,Monthly,150
+25,Male,32713,Master,Bi-Weekly,20
+18,Male,32171,Bachelor,Bi-Weekly,36
+27,Male,43780,Bachelor,Monthly,65
+27,Female,30000,PhD,Monthly,40
+49,Female,66656,Bachelor,Weekly,47
+32,Female,43929,Master,Yearly,88
+21,Female,32232,High School,Monthly,31
+67,Male,101414,Master,Yearly,248
+47,Male,57128,Bachelor,Weekly,59
+48,Male,72399,Master,Bi-Weekly,101
+53,Female,85967,Bachelor,Bi-Weekly,107
+22,Female,37832,PhD,Yearly,49
+23,Male,48988,High School,Monthly,75
+59,Female,77124,Master,Bi-Weekly,110
+39,Female,50917,PhD,Monthly,83
+18,Female,46532,Master,Monthly,41
+59,Female,115420,High School,Yearly,250
+61,Female,102334,PhD,Yearly,217
+34,Male,70536,Master,Yearly,126
+53,Male,70284,Master,Monthly,102
+53,Male,70261,PhD,Yearly,160
+45,Female,79401,PhD,Yearly,157
+57,Male,105973,Master,Monthly,191
+61,Male,79848,Bachelor,Yearly,162
+25,Male,51422,Master,Bi-Weekly,36
+61,Female,103886,Bachelor,Bi-Weekly,138
+23,Female,30446,High School,Monthly,31
+34,Male,72099,Master,Monthly,95
+60,Female,107531,Bachelor,Weekly,124
+25,Male,49975,Master,Bi-Weekly,38
+58,Male,101793,Master,Weekly,129
+29,Male,33608,PhD,Bi-Weekly,20
+24,Male,44299,Bachelor,Weekly,32
+27,Female,48158,High School,Bi-Weekly,52
+35,Male,60813,High School,Bi-Weekly,86
+55,Male,90554,PhD,Bi-Weekly,137
+30,Male,41530,PhD,Monthly,49
+59,Male,77711,Bachelor,Bi-Weekly,113
+22,Male,36246,PhD,Weekly,24
+19,Female,30000,High School,Bi-Weekly,27
+34,Female,50196,High School,Monthly,47
+44,Male,78043,Bachelor,Bi-Weekly,120
+68,Male,102450,Master,Bi-Weekly,129
+29,Male,52035,PhD,Weekly,27
+31,Male,40328,PhD,Bi-Weekly,20
+30,Male,42590,Master,Bi-Weekly,27
+20,Male,30000,Bachelor,Monthly,28
+44,Male,66949,Bachelor,Monthly,94
+51,Female,84106,High School,Weekly,96
+58,Female,99706,High School,Bi-Weekly,134
+40,Male,65940,Master,Bi-Weekly,89
+44,Female,90383,High School,Weekly,85
+38,Female,62012,High School,Yearly,106
+27,Female,41482,PhD,Bi-Weekly,21
+43,Male,68696,Master,Bi-Weekly,67
+47,Female,89436,High School,Monthly,158
+65,Female,88196,Bachelor,Monthly,127
+69,Male,114699,Bachelor,Monthly,193
+68,Male,104157,Master,Bi-Weekly,150
+65,Female,124872,Master,Weekly,133
+30,Male,51875,PhD,Weekly,39
+56,Female,99085,Bachelor,Monthly,174
+68,Male,118643,High School,Bi-Weekly,155
+47,Male,78441,Bachelor,Weekly,87
+54,Male,102947,High School,Yearly,221
+46,Female,67310,Master,Monthly,106
+21,Male,32420,Master,Bi-Weekly,20
+57,Male,88330,Master,Monthly,127
+44,Female,79267,PhD,Yearly,180
+49,Male,80775,PhD,Yearly,172
+67,Male,125042,High School,Weekly,126
+30,Female,39457,High School,Yearly,67
+46,Male,89366,Master,Monthly,138
+25,Male,39322,PhD,Yearly,60
+44,Female,78470,High School,Yearly,157
+43,Female,80858,PhD,Yearly,178
+39,Male,45363,Master,Bi-Weekly,61
+63,Male,106722,PhD,Monthly,179
+65,Male,103385,Bachelor,Bi-Weekly,148
+57,Female,107440,High School,Bi-Weekly,166
+59,Female,98622,Bachelor,Bi-Weekly,143
+64,Female,121337,Master,Yearly,250
+58,Female,90953,PhD,Weekly,89
+31,Female,49024,Master,Monthly,42
+19,Female,30000,PhD,Weekly,20
+51,Female,77163,Master,Bi-Weekly,110
+60,Female,116101,High School,Monthly,193
+48,Male,63641,High School,Yearly,117
+58,Female,89888,High School,Bi-Weekly,104
+40,Female,59260,Master,Monthly,97
+45,Female,61927,PhD,Bi-Weekly,76
+34,Female,67753,High School,Yearly,155
+69,Female,101500,PhD,Yearly,250
+19,Male,41333,Bachelor,Bi-Weekly,39
+18,Male,30000,Bachelor,Weekly,20
+60,Female,85772,High School,Monthly,154
+61,Male,89145,Master,Bi-Weekly,121
+38,Female,64816,PhD,Bi-Weekly,70
+35,Female,42440,Bachelor,Bi-Weekly,20
+40,Female,85133,High School,Bi-Weekly,122
+42,Male,66175,PhD,Yearly,114
+33,Female,67217,Master,Monthly,96
+40,Male,63892,Master,Bi-Weekly,92
+45,Female,64851,High School,Bi-Weekly,92
+20,Male,30000,Master,Yearly,20
+23,Male,32670,PhD,Bi-Weekly,42
+35,Female,75541,Bachelor,Bi-Weekly,110
+20,Female,45044,Master,Monthly,66
+46,Female,76635,Master,Weekly,85
+63,Female,117920,Bachelor,Monthly,206
+57,Female,112451,PhD,Weekly,129
+67,Female,120043,High School,Weekly,123
+54,Female,80098,PhD,Weekly,97
+22,Female,30000,High School,Yearly,20
+43,Male,53236,Bachelor,Yearly,104
+56,Female,76300,PhD,Weekly,87
+60,Female,87415,PhD,Yearly,209
+54,Male,98997,Bachelor,Weekly,117
+24,Female,44489,High School,Bi-Weekly,54
+52,Male,70896,PhD,Yearly,149
+32,Female,46144,High School,Yearly,95
+68,Male,114089,High School,Yearly,250
+39,Male,75151,Bachelor,Weekly,85
+67,Male,111710,Bachelor,Bi-Weekly,168
+48,Male,65062,Bachelor,Monthly,93
+53,Male,92461,Master,Weekly,112
+58,Female,104831,PhD,Monthly,159
+52,Female,71588,High School,Weekly,53
+53,Female,84893,High School,Bi-Weekly,119
+26,Female,,Master,Bi-Weekly,20
+36,Male,72130,Master,Yearly,164
+27,Male,30000,High School,Yearly,34
+18,Male,47394,PhD,Monthly,77
+54,Male,93626,PhD,Monthly,155
+40,Female,55656,Master,Yearly,116
+46,Male,61090,Master,Monthly,104
+24,Female,30000,PhD,Weekly,20
+20,Female,30000,PhD,Monthly,42
+52,Male,101263,Bachelor,Yearly,219
+59,Male,102615,Bachelor,Bi-Weekly,153
+20,Female,52162,PhD,Monthly,58
+22,Male,38075,High School,Weekly,43
+49,Male,77130,Master,Yearly,153
+21,Male,44945,Master,Monthly,71
+32,Male,60160,Bachelor,Bi-Weekly,60
+30,Male,40278,PhD,Monthly,34
+43,Female,62319,Master,Yearly,115
+56,Female,104349,Master,Bi-Weekly,156
+39,Male,56447,PhD,Weekly,66
+54,Male,102349,Master,Yearly,225
+61,Female,85000,Bachelor,Monthly,135
+32,Male,63202,Bachelor,Bi-Weekly,93
+30,Male,60745,Bachelor,Yearly,130
+27,Male,34539,High School,Weekly,20
+45,Male,84900,High School,Yearly,179
+46,Female,82466,Master,Bi-Weekly,128
+49,Female,99147,Bachelor,Bi-Weekly,122
+43,Male,80467,Bachelor,Bi-Weekly,118
+32,Male,60693,Master,Yearly,119
+56,Male,94140,High School,Yearly,223
+53,Male,68937,Bachelor,Yearly,131
+50,Female,63633,PhD,Monthly,82
+42,Female,80676,Master,Monthly,117
+55,Male,105254,Master,Monthly,181
+33,Female,52150,Bachelor,Yearly,88
+69,Male,127087,Bachelor,Yearly,250
+46,Male,75134,Master,Weekly,85
+41,Male,59654,PhD,Yearly,97
+35,Female,39224,Master,Monthly,24
+26,Male,39213,High School,Monthly,56
+45,Male,65285,Bachelor,Monthly,103
+26,Female,61117,High School,Yearly,120
+35,Female,41136,PhD,Bi-Weekly,46
+28,Male,46709,PhD,Bi-Weekly,42
+68,Male,91451,PhD,Weekly,111
+39,Female,67055,Master,Weekly,57
+64,Female,85672,High School,Bi-Weekly,105
+67,Male,106669,Bachelor,Yearly,236
+60,Female,102235,Bachelor,Monthly,167
+45,Female,84976,High School,Monthly,139
+68,Female,117697,Master,Yearly,250
+54,Male,80299,High School,Bi-Weekly,99
+46,Male,91954,High School,Monthly,144
+60,Female,98666,PhD,Weekly,115
+41,Male,85410,High School,Weekly,71
+62,Male,105977,PhD,Monthly,177
+61,Female,119376,Master,Monthly,200
+68,Male,98324,Bachelor,Monthly,181
+66,Male,91450,Bachelor,Bi-Weekly,110
+69,Male,126681,Bachelor,Bi-Weekly,174
+42,Female,61155,High School,Weekly,35
+66,Female,113936,High School,Bi-Weekly,152
+48,Male,71279,Master,Yearly,162
+46,Female,64855,High School,Monthly,103
+55,Female,100415,PhD,Yearly,216
+66,Female,103532,Master,Weekly,119
+52,Male,102867,Bachelor,Yearly,240
+23,Male,43187,High School,Weekly,41
+31,Male,54880,Master,Weekly,39
+33,Male,47351,Bachelor,Yearly,93
+30,Female,64299,Bachelor,Weekly,44
+35,Male,60045,Bachelor,Yearly,133
+58,Male,94078,Master,Monthly,149
+66,Male,108145,High School,Monthly,182
+33,Male,73809,High School,Monthly,130
+61,Male,93681,Bachelor,Yearly,220
+50,Female,98637,Master,Weekly,88
+51,Female,102247,Master,Bi-Weekly,155
+52,Male,72619,Bachelor,Bi-Weekly,104
+19,Female,30000,Bachelor,Bi-Weekly,27
+67,Male,124132,Bachelor,Bi-Weekly,191
+49,Male,64672,Bachelor,Bi-Weekly,58
+25,Female,50301,High School,Monthly,77
+22,Female,46131,PhD,Weekly,46
+19,Male,39550,PhD,Monthly,35
+34,Female,67504,Bachelor,Weekly,84
+41,Male,67840,Bachelor,Monthly,94
+52,Male,95197,PhD,Yearly,227
+32,Male,70436,High School,Bi-Weekly,68
+42,Female,53696,Bachelor,Weekly,52
+42,Female,60456,Bachelor,Yearly,107
+68,Male,95473,PhD,Yearly,218
+44,Female,90680,High School,Bi-Weekly,108
+46,Female,85349,Master,Yearly,205
+39,Female,47530,Master,Weekly,44
+33,Male,40138,Master,Yearly,73
+43,Female,63997,Master,Bi-Weekly,93
+39,Male,65416,Master,Bi-Weekly,88
+20,Male,30000,Master,Monthly,20
+61,Female,98005,Master,Weekly,116
+23,Female,55088,High School,Bi-Weekly,52
+45,Female,64476,High School,Yearly,134
+28,Female,63592,PhD,Monthly,110
+64,Female,107665,High School,Yearly,250
+20,Male,46207,Master,Monthly,51
+26,Male,30000,PhD,Weekly,20
+19,Male,37144,PhD,Weekly,20
+42,Female,73095,PhD,Bi-Weekly,107
+51,Female,79517,PhD,Monthly,125
+67,Male,116674,Master,Monthly,200
+63,Female,103478,PhD,Weekly,100
+50,Male,71569,Bachelor,Yearly,145
+68,Female,103058,Master,Monthly,195
+25,Female,34227,Bachelor,Monthly,25
+39,Female,70384,Bachelor,Yearly,130
+45,Male,73903,High School,Monthly,123
+24,Male,48811,Bachelor,Yearly,74
+48,Male,78312,PhD,Bi-Weekly,106
+22,Female,35504,Bachelor,Weekly,20
+33,Female,47454,PhD,Bi-Weekly,29
+37,Male,44687,Bachelor,Yearly,75
+59,Female,99280,High School,Monthly,184
+29,Female,44076,Bachelor,Monthly,64
+38,Male,48255,PhD,Weekly,40
+59,Female,113674,PhD,Monthly,202
+36,Female,41560,PhD,Monthly,45
+57,Male,110890,High School,Bi-Weekly,172
+31,Female,54687,Bachelor,Weekly,53
+50,Male,68229,Bachelor,Bi-Weekly,98
+64,Male,119208,Master,Monthly,207
+56,Male,110417,Master,Weekly,116
+39,Female,52593,Master,Weekly,52
+43,Female,60817,Master,Weekly,61
+69,Female,108889,Bachelor,Weekly,104
+34,Female,74031,High School,Yearly,158
+55,Male,96128,Bachelor,Bi-Weekly,124
+66,Male,111259,Master,Monthly,194
+69,Male,100154,Bachelor,Weekly,104
+53,Female,97732,High School,Weekly,124
+66,Male,95267,High School,Monthly,162
+34,Female,66958,PhD,Weekly,71
+32,Female,59755,PhD,Weekly,55
+68,Male,107696,PhD,Weekly,103
+60,Female,105043,High School,Monthly,187
+26,Female,30000,Master,Weekly,20
+18,Male,30000,High School,Monthly,20
+24,Male,52224,Master,Weekly,60
+38,Female,52132,High School,Yearly,96
+50,Male,95932,PhD,Bi-Weekly,136
+62,Male,94486,High School,Yearly,204
+23,Male,42402,Bachelor,Monthly,56
+58,Female,105687,PhD,Weekly,120
+23,Female,36393,PhD,Yearly,40
+51,Female,67651,High School,Yearly,147
+58,Female,84101,Master,Monthly,144
+34,Female,72872,High School,Monthly,127
+20,Male,51955,Bachelor,Weekly,58
+65,Male,89477,High School,Bi-Weekly,105
+31,Male,49435,High School,Monthly,55
+41,Female,56594,High School,Bi-Weekly,57
+31,Female,66857,Master,Yearly,138
+30,Male,39780,Bachelor,Yearly,46
+49,Male,75722,PhD,Yearly,141
+46,Male,79519,Master,Yearly,186
+58,Male,76324,Master,Weekly,74
+45,Male,84363,High School,Weekly,87
+20,Male,53089,Master,Weekly,34
+36,Male,51826,High School,Monthly,59
+41,Male,80582,Master,Yearly,177
+34,Female,51881,Master,Monthly,57
+52,Male,94760,PhD,Yearly,215
+58,Male,102751,High School,Yearly,235
+58,Male,97567,High School,Yearly,217
+42,Female,52357,High School,Weekly,35
+28,Female,46204,PhD,Bi-Weekly,50
+39,Male,83461,High School,Weekly,98
+32,Female,43550,High School,Yearly,54
+38,Female,51121,Bachelor,Monthly,86
+55,Female,87358,Master,Weekly,101
+68,Female,94258,Bachelor,Weekly,87
+40,Female,84934,High School,Weekly,85
+37,Male,40987,PhD,Yearly,64
+37,Male,60248,PhD,Yearly,117
+18,Female,38498,High School,Yearly,69
+50,Male,95455,Bachelor,Yearly,226
+29,Female,37746,Master,Bi-Weekly,21
+45,Female,61541,PhD,Yearly,124
+51,Male,83163,High School,Monthly,132
+18,Male,47464,High School,Weekly,57
+28,Female,55130,Master,Monthly,70
+33,Female,48116,PhD,Bi-Weekly,58
+52,Male,101263,Bachelor,Bi-Weekly,123
+45,Male,86725,Bachelor,Bi-Weekly,127
+67,Female,94282,Bachelor,Monthly,177
+19,Male,31045,Bachelor,Bi-Weekly,20
+58,Male,74711,PhD,Bi-Weekly,82
+34,Male,54984,Bachelor,Monthly,70
+47,Male,91430,Bachelor,Monthly,148
+52,Female,91144,Bachelor,Monthly,144
+21,Female,30000,PhD,Bi-Weekly,22
+18,Male,47270,Master,Bi-Weekly,61
+61,Male,94290,PhD,Yearly,213
+57,Male,97877,High School,Weekly,113
+54,Female,107307,Master,Yearly,250
+64,Female,122937,High School,Bi-Weekly,170
+35,Female,56240,Bachelor,Monthly,85
+47,Male,96333,Master,Monthly,175
+53,Female,92446,PhD,Monthly,144
+33,Male,51069,Bachelor,Yearly,86
+24,Female,35205,High School,Monthly,30
+60,Male,86050,Bachelor,Yearly,193
+26,Male,43983,PhD,Monthly,47
+62,Male,93008,PhD,Weekly,95
+25,Female,42491,Bachelor,Monthly,65
+25,Male,30000,Bachelor,Bi-Weekly,20
+41,Female,85643,High School,Monthly,126
+65,Male,123631,High School,Weekly,133
+56,Female,94815,Master,Monthly,155
+29,Male,33401,Master,Weekly,20
+51,Male,71118,High School,Bi-Weekly,90
+53,Female,98236,High School,Monthly,159
+43,Male,83962,Master,Yearly,182
+30,Male,36924,Bachelor,Bi-Weekly,25
+65,Male,102154,Bachelor,Weekly,117
+28,Female,45774,PhD,Yearly,65
+23,Female,37244,High School,Weekly,24
+49,Female,65308,Bachelor,Yearly,129
+26,Female,55074,Bachelor,Monthly,58
+57,Female,100871,PhD,Weekly,102
+58,Male,77599,Master,Weekly,68
+48,Male,59035,High School,Weekly,66
+58,Male,112351,High School,Weekly,125
+54,Male,80591,Master,Weekly,100
+46,Female,59575,Master,Yearly,99
+60,Female,92667,High School,Weekly,83
+34,Male,42728,Bachelor,Weekly,22
+38,Female,45519,Master,Yearly,66
+59,Male,113309,PhD,Monthly,193
+48,Male,69291,Bachelor,Weekly,68
+22,Male,30000,PhD,Weekly,20
+45,Female,67861,Bachelor,Yearly,134
+58,Male,83530,PhD,Monthly,142
+52,Female,69227,PhD,Yearly,144
+34,Female,50536,High School,Weekly,55
+29,Female,64438,PhD,Monthly,103
+55,Female,94214,High School,Monthly,176
+38,Female,,PhD,Weekly,20
+32,Male,35915,PhD,Bi-Weekly,20
+70,Male,108279,Bachelor,Monthly,206
+29,Female,58651,PhD,Monthly,63
+63,Male,120278,PhD,Yearly,250
+61,Female,101225,PhD,Yearly,219
+51,Female,74539,Master,Weekly,74
+62,Female,81389,High School,Monthly,139
+43,Female,76063,Bachelor,Yearly,170
+58,Female,103569,PhD,Bi-Weekly,136
+27,Female,56189,PhD,Yearly,121
+68,Male,119679,Master,Weekly,121
+67,Male,95027,Bachelor,Weekly,116
+32,Male,54914,PhD,Bi-Weekly,42
+22,Female,54663,PhD,Monthly,83
+27,Male,60991,Master,Yearly,131
+35,Male,66908,High School,Weekly,77
+70,Female,120044,Bachelor,Bi-Weekly,166
+33,Male,43311,Bachelor,Monthly,47
+47,Female,82353,High School,Weekly,98
+54,Male,82368,PhD,Bi-Weekly,121
+52,Male,96514,PhD,Yearly,215
+33,Male,34817,Bachelor,Bi-Weekly,22
+70,Male,98447,Bachelor,Yearly,234
+41,Male,79071,Bachelor,Yearly,155
+52,Male,74728,High School,Bi-Weekly,97
+47,Male,95508,High School,Weekly,92
+31,Male,66776,Bachelor,Bi-Weekly,66
+18,Male,31505,High School,Weekly,20
+19,Male,30000,Bachelor,Weekly,20
+49,Male,95024,High School,Bi-Weekly,133
+57,Male,97069,PhD,Monthly,148
+60,Male,114729,Bachelor,Monthly,190
+70,Female,98504,Bachelor,Yearly,237
+50,Female,79497,High School,Weekly,60
+38,Male,61067,Master,Bi-Weekly,56
+34,Female,37514,Bachelor,Monthly,28
+24,Male,30000,Bachelor,Weekly,33
+22,Female,30000,Master,Monthly,20
+36,Female,50063,PhD,Yearly,105
+47,Female,68532,High School,Bi-Weekly,77
+60,Male,78187,Master,Bi-Weekly,85
+49,Male,95824,High School,Bi-Weekly,128
+68,Male,116471,High School,Bi-Weekly,156
+38,Female,71123,High School,Yearly,129
+48,Female,65187,Bachelor,Bi-Weekly,88
+27,Female,37011,Master,Weekly,26
+40,Female,55079,Master,Monthly,59
+41,Female,63791,PhD,Monthly,75
+35,Male,67109,Master,Bi-Weekly,94
+58,Female,111062,Master,Monthly,209
+63,Female,110438,High School,Monthly,195
+33,Female,58797,Master,Monthly,72
+45,Male,73881,PhD,Weekly,53
+36,Female,74212,PhD,Weekly,70
+64,Male,98524,Bachelor,Bi-Weekly,154
+36,Male,57152,Bachelor,Yearly,105
+32,Male,46330,PhD,Bi-Weekly,61
+36,Female,57418,High School,Weekly,65
+56,Male,77034,PhD,Yearly,152
+67,Female,107886,PhD,Monthly,187
+61,Female,109206,Master,Bi-Weekly,139
+27,Female,61814,Master,Monthly,85
+40,Female,56895,Bachelor,Bi-Weekly,67
+53,Female,73232,High School,Weekly,72
+49,Male,79393,High School,Yearly,166
+57,Male,92947,PhD,Monthly,169
+25,Male,37892,Bachelor,Bi-Weekly,47
+52,Female,73017,Bachelor,Weekly,84
+31,Female,66670,High School,Yearly,142
+26,Male,58017,PhD,Monthly,62
+64,Male,111319,High School,Bi-Weekly,172
+47,Male,77247,PhD,Yearly,165
+51,Male,88013,PhD,Yearly,212
+51,Female,95170,PhD,Yearly,221
+62,Female,106626,Bachelor,Bi-Weekly,158
+19,Male,31790,Master,Weekly,20
+34,Female,36318,Master,Yearly,43
+57,Male,78873,High School,Bi-Weekly,106
+30,Female,47511,High School,Weekly,22
+67,Male,108646,High School,Bi-Weekly,150
+50,Male,88870,High School,Yearly,198
+48,Male,92526,High School,Bi-Weekly,125
+43,Male,60286,Master,Monthly,86
+52,Male,92114,Bachelor,Weekly,103
+68,Male,124050,High School,Yearly,250
+47,Male,82809,Bachelor,Monthly,150
+69,Male,127034,PhD,Yearly,250
+63,Female,122628,Bachelor,Yearly,250
+49,Female,68016,High School,Yearly,124
+40,Male,63866,Master,Monthly,75
+62,Female,103822,Bachelor,Monthly,188
+59,Female,79974,Bachelor,Weekly,73
+19,Male,42941,PhD,Yearly,52
+34,Female,73656,Bachelor,Bi-Weekly,103
+61,Female,105537,Master,Monthly,199
+41,Male,69874,Master,Bi-Weekly,75
+22,Female,51392,Master,Monthly,71
+52,Female,84935,High School,Yearly,168
+29,Male,52906,Bachelor,Weekly,59
+18,Female,30000,PhD,Bi-Weekly,22
+37,Female,63624,PhD,Monthly,103
+44,Female,66959,Bachelor,Weekly,54
+34,Female,68061,Bachelor,Yearly,142
+18,Female,30000,High School,Yearly,34
+50,Male,93252,PhD,Weekly,99
+56,Female,93067,Master,Yearly,229
+24,Male,44857,PhD,Yearly,85
+58,Female,95884,PhD,Weekly,102
+38,Female,48304,Master,Bi-Weekly,64
+23,Female,30000,Master,Weekly,20
+52,Female,99925,Bachelor,Weekly,92
+32,Female,32630,PhD,Monthly,41
+69,Male,93104,PhD,Yearly,210
+59,Female,115166,High School,Bi-Weekly,163
+22,Male,30748,PhD,Yearly,20
+44,Female,77229,High School,Weekly,72
+39,Female,62293,Bachelor,Weekly,52
+52,Male,87871,Master,Weekly,85
+52,Male,97373,High School,Monthly,176
+34,Male,74433,High School,Bi-Weekly,114
+40,Female,62356,Bachelor,Bi-Weekly,66
+39,Male,61221,Bachelor,Monthly,85
+49,Male,60150,Bachelor,Monthly,69
+51,Male,89968,Master,Weekly,79
+68,Female,104254,Bachelor,Monthly,183
+35,Female,57443,Bachelor,Bi-Weekly,54
+20,Female,30000,Bachelor,Monthly,20
+41,Female,69320,Master,Yearly,132
+30,Male,30000,Bachelor,Bi-Weekly,21
+22,Female,54346,PhD,Weekly,47
+48,Male,96502,PhD,Bi-Weekly,133
+32,Male,57886,Master,Weekly,34
+48,Male,92495,PhD,Yearly,190
+54,Male,74463,PhD,Weekly,78
+20,Female,30000,High School,Monthly,32
+60,Male,107728,PhD,Yearly,247
+46,Female,84443,High School,Bi-Weekly,124
+48,Male,59239,High School,Bi-Weekly,64
+37,Female,65089,Master,Bi-Weekly,81
+68,Female,116311,High School,Yearly,250
+35,Female,72155,PhD,Weekly,67
+55,Female,94668,PhD,Bi-Weekly,110
+33,Male,49122,High School,Yearly,97
+53,Female,97026,Master,Weekly,120
+40,Male,67376,Bachelor,Yearly,120
+52,Female,103042,High School,Monthly,162
+50,Female,68969,PhD,Bi-Weekly,98
+24,Female,36277,Bachelor,Yearly,67
+69,Female,111497,PhD,Monthly,211
+27,Female,64105,High School,Weekly,49
+42,Female,49265,Bachelor,Bi-Weekly,43
+50,Male,70400,PhD,Monthly,103
+27,Female,40764,Master,Bi-Weekly,30
+70,Female,95242,High School,Yearly,219
+58,Male,81270,Master,Bi-Weekly,93
+30,Female,38035,High School,Yearly,35
